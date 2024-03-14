@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Smartphone Samsung Galaxy S21",
+    "description": "El último modelo de Samsung con pantalla AMOLED y cámara de alta resolución.",
+    "price": 999.99,
+    "thumbnail": "https://example.com/samsung_s21.jpg",
+    "code": "S21BLK",
+    "stock": 50
+  },
+  {
+    "title": "Laptop HP Pavilion 15",
+    "description": "Laptop potente y elegante con procesador Intel Core i7 y tarjeta gráfica NVIDIA GeForce.",
+    "price": 799.99,
+    "thumbnail": "https://example.com/hp_pavilion15.jpg",
+    "code": "HP15SLV",
+    "stock": 30
+  },
+  {
+    "title": "Smart TV LG 55' 4K UHD",
+    "description": "Televisor inteligente con resolución 4K y sistema operativo webOS para disfrutar de tus contenidos favoritos.",
+    "price": 699.99,
+    "thumbnail": "https://example.com/lg_tv55.jpg",
+    "code": "LG55BLK",
+    "stock": 20
+  },
+  {
+    "title": "Cámara Canon EOS Rebel T7",
+    "description": "Cámara réflex digital con sensor CMOS de 24.1 megapíxeles y grabación de video Full HD.",
+    "price": 499.99,
+    "thumbnail": "https://example.com/canon_eosrebel.jpg",
+    "code": "CANREBT7",
+    "stock": 25
+  },
+  {
+    "title": "Auriculares Sony WH-1000XM4",
+    "description": "Auriculares inalámbricos con cancelación de ruido líder en su clase y hasta 30 horas de duración de la batería.",
+    "price": 349.99,
+    "thumbnail": "https://example.com/sony_wh1000xm4.jpg",
+    "code": "SONYXM4",
+    "stock": 40
+  },
+  {
+    "title": "Consola de videojuegos Xbox Series X",
+    "description": "La consola más potente de Microsoft con capacidad de juego en 4K y velocidades de carga rápidas.",
+    "price": 499.99,
+    "thumbnail": "https://example.com/xbox_seriesx.jpg",
+    "code": "XBOXSX",
+    "stock": 15
+  },
+  {
+    "title": "Impresora multifunción Epson EcoTank",
+    "description": "Impresora con sistema de tanque de tinta de alta capacidad que reduce el costo de impresión.",
+    "price": 299.99,
+    "thumbnail": "https://example.com/epson_ecotank.jpg",
+    "code": "EPSONET",
+    "stock": 35
+  },
+  {
+    "title": "Refrigerador Samsung Side-by-Side",
+    "description": "Refrigerador con dispensador de agua y hielo, y amplio espacio de almacenamiento.",
+    "price": 1499.99,
+    "thumbnail": "https://example.com/samsung_refrigerator.jpg",
+    "code": "SAMSUNGFR",
+    "stock": 10
+  },
+  {
+    "title": "Smartwatch Apple Watch Series 6",
+    "description": "Reloj inteligente con monitorización avanzada de la salud y pantalla Retina siempre encendida.",
+    "price": 399.99,
+    "thumbnail": "https://example.com/apple_watch6.jpg",
+    "code": "APPLEWS6",
+    "stock": 20
+  },
+  {
+    "title": "Robot aspirador iRobot Roomba 960",
+    "description": "Robot aspirador con mapeo inteligente y tecnología de limpieza avanzada para hogares más limpios.",
+    "price": 499.99,
+    "thumbnail": "https://example.com/roomba960.jpg",
+    "code": "ROOMBA960",
+    "stock": 15
+  },
+  {
+    "id": "ltrir8id_1_ydo7p",
+    "title": "producto prueba",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25
+  }
+]
